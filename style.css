@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+img{
+	max-width: 100%;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+.btn{
+    background-color: #5F67FF;
+    color: #fff;
+    padding: 13px 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.btn:hover{
+	background-color: #464cc5;
+	color: #fff;
+}
+.navbar{
+	padding: 20px;
+	background: #fff !important;
+	border-bottom: 2px solid #ECECEC;
+}
+.navbar img{
+	width: 150px;
+}
+
+.collapse {}
+.collapse ul {}
+.collapse ul li{
+	padding: 15px;
+}
+.collapse ul li a{
+	font-weight: 700;
+}
+.collapse ul li a:hover{
+	color: #5F67FF !important;
+}
+.partner h2{}
+.partner h1{
+    color: #5f67ff;
+    font-size: 55px;
+    font-weight: 700;
+    margin: 30px 0px;
+}
+.partner h3{
+	font-weight: 700;
+}
+.card{
+	box-shadow: 0px 13px 20px #0000002e;
+	margin: 50px 0px;
+	border: 0px;
+}
+
+.partner-section{
+    padding-top: 180px;
+}
+.partner-section .card{
+	
+}
+.card-item{
+	padding: 45px;
+	text-align: center;
+}
+.partner-section img{}
+.partner-section .card h4{
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px;
+}
+.partner-section .card p{
+    font-size: 14px;
+}
+.client-section{}
+.client-section h1{
+	color: #5f67ff;
+    font-size: 55px;
+    font-weight: 700;
+    text-align: right;
+}
+.partner-section h2{
+    background-color: #5f67ff;
+    color: #fff;
+    display: inline-block;
+    border-radius: 0 5px 5px 0;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 20px 100px 20px calc(50% - 555px);
+}
+.big-section {}
+.big-section .card-items{}
+.big-section img{
+	width: 400px;
+}
+.big-section .row{}
+.right-card{
+	padding: 35px;
+	text-align: left;
+}
+.right-card h1{
+    color: #5f67ff;
+    font-size: 32px;
+    font-weight: 700;
+}
+.right-card strong{
+    padding: 15px 0px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+}
+.right-card p{
+	font-size: 14px;
+}
+.client-section .area{
+	text-align: center;
+}
+.client-section .card{
+    border-top: 7px solid #5f67ff;
+    border-radius: 0px;
+}
+.client-section .picture{
+    text-align: center;
+    padding: 50px;
+}
+.client-section img{
+    height: 50px;
+}
+.area h5{
+	font-size: 18px;
+}
+.area p{
+	font-size: 14px;
+}
+
+.steps-section{}
+.steps-section h3{
+    font-weight: 700;
+    padding: 45px 0px;
+    font-size: 36px;
+}
+.number{}
+.number span{
+    display: block;
+    color: #5f67ff;
+    font-size: 95px;
+    font-weight: 700;
+}
+.number strong{
+    font-size: 20px;
+    padding: 10px 0px;
+    display: inline-block;
+}
+.number p{}
+p{
+	font-size: 14px;
+
+}
+.button-div{
+    text-align: center;
+    margin: 50px;
+    margin-bottom: 90px;
+}
+.button-div a{}
+.steps-section .btn{}
+
+footer{
+    background: #333333;
+    color: #fff;
+    padding: 70px 0px;
+}
+footer ul{}
+footer ul strong{
+	font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 23px;
+}
+footer ul li{
+    list-style: none;
+}
+footer ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+footer ul li a:hover{
+	color: #b1b1b1;
+}
+hr{}
+footer p{}
+
+
