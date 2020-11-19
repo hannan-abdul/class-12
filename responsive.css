@@ -25,4 +25,7 @@ footer p {
 .number {
     text-align: center;
 }
+.collapse ul li {
+    padding: 0px;
+}
 }
