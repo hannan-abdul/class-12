@@ -3,3 +3,26 @@
     padding: 20px 100px 20px calc(60% - 555px);
 }
 }
+@media (max-width: 575px){
+	footer ul {
+    text-align: center;
+}
+footer p {
+    text-align: center;
+}
+.partner-section {
+    padding-top: 110px;
+}
+.partner-section h2 {
+    padding: 10px 70px 10px calc(60% - 555px);
+}
+.partner h1 {
+    font-size: 45px;
+}
+.client-section h1 {
+    font-size: 45px;
+}
+.number {
+    text-align: center;
+}
+}
